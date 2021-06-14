@@ -1,0 +1,444 @@
+[30-Mar-2021 15:15:03 America/New_York] instantiating backup controller bef885af9e631acb194df65d656b6c01
+[30-Mar-2021 15:15:03 America/New_York] setting controller status to 100
+[30-Mar-2021 15:15:03 America/New_York] loading controller plan
+[30-Mar-2021 15:15:03 America/New_York] setting controller status to 300
+[30-Mar-2021 15:15:03 America/New_York] applying plan defaults
+[30-Mar-2021 15:15:03 America/New_York] setting controller status to 400
+[30-Mar-2021 15:15:03 America/New_York] setting file inclusion to 
+[30-Mar-2021 15:15:03 America/New_York] checking plan security
+[30-Mar-2021 15:15:03 America/New_York] setting controller status to 700
+[30-Mar-2021 15:15:03 America/New_York] saving controller to db
+[30-Mar-2021 15:15:03 America/New_York] calculating controller checksum d56c06ade20faeb1e673b821fe39a85b
+[30-Mar-2021 15:15:03 America/New_York] loading controller from db
+[30-Mar-2021 15:15:03 America/New_York] setting file inclusion to 1
+[30-Mar-2021 15:15:03 America/New_York] setting controller status to 800
+[30-Mar-2021 15:15:03 America/New_York] saving controller to db
+[30-Mar-2021 15:15:03 America/New_York] calculating controller checksum c39958bf1bfa45124c97251f98e0b9c2
+[30-Mar-2021 15:15:03 America/New_York] loading controller from db
+[30-Mar-2021 15:15:05 America/New_York] setting controller status to 1000
+[30-Mar-2021 15:15:05 America/New_York] saving controller to db
+[30-Mar-2021 15:15:06 America/New_York] instantiating backup controller 22e0ae0457040eb1a86c8d1f0b8d222f
+[30-Mar-2021 15:15:06 America/New_York] setting controller status to 100
+[30-Mar-2021 15:15:06 America/New_York] loading controller plan
+[30-Mar-2021 15:15:06 America/New_York] setting controller status to 300
+[30-Mar-2021 15:15:06 America/New_York] applying plan defaults
+[30-Mar-2021 15:15:06 America/New_York] setting controller status to 400
+[30-Mar-2021 15:15:06 America/New_York] setting file inclusion to 
+[30-Mar-2021 15:15:06 America/New_York] checking plan security
+[30-Mar-2021 15:15:06 America/New_York] setting controller status to 700
+[30-Mar-2021 15:15:06 America/New_York] saving controller to db
+[30-Mar-2021 15:15:06 America/New_York] calculating controller checksum 3a4cbd745a4fcc340cbd364210ecfb26
+[30-Mar-2021 15:15:06 America/New_York] loading controller from db
+[30-Mar-2021 15:15:06 America/New_York] setting file inclusion to 1
+[30-Mar-2021 15:15:06 America/New_York] setting controller status to 800
+[30-Mar-2021 15:15:06 America/New_York] saving controller to db
+[30-Mar-2021 15:15:06 America/New_York] calculating controller checksum 7131166f022b09c32e2b8d51656305b7
+[30-Mar-2021 15:15:06 America/New_York] loading controller from db
+[30-Mar-2021 15:15:09 America/New_York] setting controller status to 1000
+[30-Mar-2021 15:15:09 America/New_York] saving controller to db
+[30-Mar-2021 15:15:09 America/New_York] instantiating backup controller 20accda08766f94cafb8f1ffeea7851d
+[30-Mar-2021 15:15:09 America/New_York] setting controller status to 100
+[30-Mar-2021 15:15:09 America/New_York] loading controller plan
+[30-Mar-2021 15:15:09 America/New_York] setting controller status to 300
+[30-Mar-2021 15:15:09 America/New_York] applying plan defaults
+[30-Mar-2021 15:15:09 America/New_York] setting controller status to 400
+[30-Mar-2021 15:15:09 America/New_York] setting file inclusion to 
+[30-Mar-2021 15:15:09 America/New_York] checking plan security
+[30-Mar-2021 15:15:09 America/New_York] setting controller status to 700
+[30-Mar-2021 15:15:09 America/New_York] saving controller to db
+[30-Mar-2021 15:15:09 America/New_York] calculating controller checksum bf8f2b52f8db5ac625e22f79edef521d
+[30-Mar-2021 15:15:09 America/New_York] loading controller from db
+[30-Mar-2021 15:15:09 America/New_York] setting file inclusion to 1
+[30-Mar-2021 15:15:09 America/New_York] setting controller status to 800
+[30-Mar-2021 15:15:09 America/New_York] saving controller to db
+[30-Mar-2021 15:15:09 America/New_York] calculating controller checksum 093952a386fac895e582cad4cf6fcf92
+[30-Mar-2021 15:15:09 America/New_York] loading controller from db
+[30-Mar-2021 15:15:33 America/New_York] setting controller status to 1000
+[30-Mar-2021 15:15:33 America/New_York] saving controller to db
+[30-Mar-2021 15:15:34 America/New_York] instantiating backup controller c1cd7aeb9c83c3ab74bee888be5b64c7
+[30-Mar-2021 15:15:34 America/New_York] setting controller status to 100
+[30-Mar-2021 15:15:34 America/New_York] loading controller plan
+[30-Mar-2021 15:15:34 America/New_York] setting controller status to 300
+[30-Mar-2021 15:15:34 America/New_York] applying plan defaults
+[30-Mar-2021 15:15:34 America/New_York] setting controller status to 400
+[30-Mar-2021 15:15:34 America/New_York] setting file inclusion to 
+[30-Mar-2021 15:15:34 America/New_York] checking plan security
+[30-Mar-2021 15:15:34 America/New_York] setting controller status to 700
+[30-Mar-2021 15:15:34 America/New_York] saving controller to db
+[30-Mar-2021 15:15:34 America/New_York] calculating controller checksum f14ed1b2eef4869507701c119795c3e2
+[30-Mar-2021 15:15:34 America/New_York] loading controller from db
+[30-Mar-2021 15:15:34 America/New_York] setting file inclusion to 1
+[30-Mar-2021 15:15:34 America/New_York] setting controller status to 800
+[30-Mar-2021 15:15:34 America/New_York] saving controller to db
+[30-Mar-2021 15:15:34 America/New_York] calculating controller checksum 13ecab6da15f782df28f626db5f73e14
+[30-Mar-2021 15:15:34 America/New_York] loading controller from db
+[30-Mar-2021 15:15:41 America/New_York] setting controller status to 1000
+[30-Mar-2021 15:15:41 America/New_York] saving controller to db
+[30-Mar-2021 15:15:41 America/New_York] instantiating backup controller 49b528e82007046355eeb58d27a6f78a
+[30-Mar-2021 15:15:41 America/New_York] setting controller status to 100
+[30-Mar-2021 15:15:41 America/New_York] loading controller plan
+[30-Mar-2021 15:15:41 America/New_York] setting controller status to 300
+[30-Mar-2021 15:15:41 America/New_York] applying plan defaults
+[30-Mar-2021 15:15:41 America/New_York] setting controller status to 400
+[30-Mar-2021 15:15:41 America/New_York] setting file inclusion to 
+[30-Mar-2021 15:15:41 America/New_York] checking plan security
+[30-Mar-2021 15:15:41 America/New_York] setting controller status to 700
+[30-Mar-2021 15:15:41 America/New_York] saving controller to db
+[30-Mar-2021 15:15:41 America/New_York] calculating controller checksum 2cf516271a6817e4fd3d6d556f522c51
+[30-Mar-2021 15:15:41 America/New_York] loading controller from db
+[30-Mar-2021 15:15:41 America/New_York] setting file inclusion to 1
+[30-Mar-2021 15:15:41 America/New_York] setting controller status to 800
+[30-Mar-2021 15:15:41 America/New_York] saving controller to db
+[30-Mar-2021 15:15:41 America/New_York] calculating controller checksum 5b54a95f76adde17ca7e5e68eb0e06cb
+[30-Mar-2021 15:15:41 America/New_York] loading controller from db
+[30-Mar-2021 15:15:42 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/obhuctmy/public_html/online-courses/lib/filestorage/tgz_packer.php on line 482
+[30-Mar-2021 16:15:02 America/New_York] instantiating backup controller 8254ed445928a0f9b5ae9215e52de28f
+[30-Mar-2021 16:15:02 America/New_York] setting controller status to 100
+[30-Mar-2021 16:15:02 America/New_York] loading controller plan
+[30-Mar-2021 16:15:02 America/New_York] setting controller status to 300
+[30-Mar-2021 16:15:02 America/New_York] applying plan defaults
+[30-Mar-2021 16:15:02 America/New_York] setting controller status to 400
+[30-Mar-2021 16:15:02 America/New_York] setting file inclusion to 
+[30-Mar-2021 16:15:02 America/New_York] checking plan security
+[30-Mar-2021 16:15:02 America/New_York] setting controller status to 700
+[30-Mar-2021 16:15:02 America/New_York] saving controller to db
+[30-Mar-2021 16:15:02 America/New_York] calculating controller checksum 5cdbf793c4d27c3dbdba1855171dd73b
+[30-Mar-2021 16:15:02 America/New_York] loading controller from db
+[30-Mar-2021 16:15:02 America/New_York] setting file inclusion to 1
+[30-Mar-2021 16:15:02 America/New_York] setting controller status to 800
+[30-Mar-2021 16:15:02 America/New_York] saving controller to db
+[30-Mar-2021 16:15:02 America/New_York] calculating controller checksum affb1e03c7f2eec25922138f78bfb943
+[30-Mar-2021 16:15:02 America/New_York] loading controller from db
+[30-Mar-2021 16:15:07 America/New_York] setting controller status to 1000
+[30-Mar-2021 16:15:07 America/New_York] saving controller to db
+[30-Mar-2021 16:15:08 America/New_York] instantiating backup controller fbf445fb9745e4d488eb9e565b5c5a36
+[30-Mar-2021 16:15:08 America/New_York] setting controller status to 100
+[30-Mar-2021 16:15:08 America/New_York] loading controller plan
+[30-Mar-2021 16:15:08 America/New_York] setting controller status to 300
+[30-Mar-2021 16:15:08 America/New_York] applying plan defaults
+[30-Mar-2021 16:15:08 America/New_York] setting controller status to 400
+[30-Mar-2021 16:15:08 America/New_York] setting file inclusion to 
+[30-Mar-2021 16:15:08 America/New_York] checking plan security
+[30-Mar-2021 16:15:08 America/New_York] setting controller status to 700
+[30-Mar-2021 16:15:08 America/New_York] saving controller to db
+[30-Mar-2021 16:15:08 America/New_York] calculating controller checksum 1348ddaf7c85284a06d4f4bd9a76a538
+[30-Mar-2021 16:15:08 America/New_York] loading controller from db
+[30-Mar-2021 16:15:08 America/New_York] setting file inclusion to 1
+[30-Mar-2021 16:15:08 America/New_York] setting controller status to 800
+[30-Mar-2021 16:15:08 America/New_York] saving controller to db
+[30-Mar-2021 16:15:08 America/New_York] calculating controller checksum 2327ec74c4d3bbf3eb4012b2be7e016c
+[30-Mar-2021 16:15:08 America/New_York] loading controller from db
+[30-Mar-2021 16:15:13 America/New_York] setting controller status to 1000
+[30-Mar-2021 16:15:13 America/New_York] saving controller to db
+[30-Mar-2021 16:15:14 America/New_York] instantiating backup controller ed26042c5570ac464103be21cd961f9b
+[30-Mar-2021 16:15:14 America/New_York] setting controller status to 100
+[30-Mar-2021 16:15:14 America/New_York] loading controller plan
+[30-Mar-2021 16:15:14 America/New_York] setting controller status to 300
+[30-Mar-2021 16:15:14 America/New_York] applying plan defaults
+[30-Mar-2021 16:15:14 America/New_York] setting controller status to 400
+[30-Mar-2021 16:15:14 America/New_York] setting file inclusion to 
+[30-Mar-2021 16:15:14 America/New_York] checking plan security
+[30-Mar-2021 16:15:14 America/New_York] setting controller status to 700
+[30-Mar-2021 16:15:14 America/New_York] saving controller to db
+[30-Mar-2021 16:15:14 America/New_York] calculating controller checksum a456344aab9a40dc3e51b2baecc08b3a
+[30-Mar-2021 16:15:14 America/New_York] loading controller from db
+[30-Mar-2021 16:15:14 America/New_York] setting file inclusion to 1
+[30-Mar-2021 16:15:14 America/New_York] setting controller status to 800
+[30-Mar-2021 16:15:14 America/New_York] saving controller to db
+[30-Mar-2021 16:15:14 America/New_York] calculating controller checksum 7891e77a9776421b5bf488c73b1fcfd7
+[30-Mar-2021 16:15:14 America/New_York] loading controller from db
+[30-Mar-2021 16:15:23 America/New_York] setting controller status to 1000
+[30-Mar-2021 16:15:23 America/New_York] saving controller to db
+[30-Mar-2021 16:15:23 America/New_York] instantiating backup controller 34bd807224c41047afddf87e7dc56d65
+[30-Mar-2021 16:15:23 America/New_York] setting controller status to 100
+[30-Mar-2021 16:15:23 America/New_York] loading controller plan
+[30-Mar-2021 16:15:23 America/New_York] setting controller status to 300
+[30-Mar-2021 16:15:23 America/New_York] applying plan defaults
+[30-Mar-2021 16:15:23 America/New_York] setting controller status to 400
+[30-Mar-2021 16:15:23 America/New_York] setting file inclusion to 
+[30-Mar-2021 16:15:23 America/New_York] checking plan security
+[30-Mar-2021 16:15:23 America/New_York] setting controller status to 700
+[30-Mar-2021 16:15:23 America/New_York] saving controller to db
+[30-Mar-2021 16:15:23 America/New_York] calculating controller checksum 793971c4ce7b350dad440d6be68c1013
+[30-Mar-2021 16:15:23 America/New_York] loading controller from db
+[30-Mar-2021 16:15:23 America/New_York] setting file inclusion to 1
+[30-Mar-2021 16:15:23 America/New_York] setting controller status to 800
+[30-Mar-2021 16:15:23 America/New_York] saving controller to db
+[30-Mar-2021 16:15:23 America/New_York] calculating controller checksum c540860fdd58e06b4b1f82b57152fa6d
+[30-Mar-2021 16:15:23 America/New_York] loading controller from db
+[30-Mar-2021 16:15:30 America/New_York] setting controller status to 1000
+[30-Mar-2021 16:15:30 America/New_York] saving controller to db
+[30-Mar-2021 16:15:30 America/New_York] instantiating backup controller a1e86a5944e98e49be4a3cee5b509d2d
+[30-Mar-2021 16:15:30 America/New_York] setting controller status to 100
+[30-Mar-2021 16:15:30 America/New_York] loading controller plan
+[30-Mar-2021 16:15:30 America/New_York] setting controller status to 300
+[30-Mar-2021 16:15:30 America/New_York] applying plan defaults
+[30-Mar-2021 16:15:30 America/New_York] setting controller status to 400
+[30-Mar-2021 16:15:30 America/New_York] setting file inclusion to 
+[30-Mar-2021 16:15:30 America/New_York] checking plan security
+[30-Mar-2021 16:15:30 America/New_York] setting controller status to 700
+[30-Mar-2021 16:15:30 America/New_York] saving controller to db
+[30-Mar-2021 16:15:30 America/New_York] calculating controller checksum 7291b13fe010d26865042630ff6c8cad
+[30-Mar-2021 16:15:30 America/New_York] loading controller from db
+[30-Mar-2021 16:15:30 America/New_York] setting file inclusion to 1
+[30-Mar-2021 16:15:30 America/New_York] setting controller status to 800
+[30-Mar-2021 16:15:30 America/New_York] saving controller to db
+[30-Mar-2021 16:15:30 America/New_York] calculating controller checksum 72aad0a0911567e1403530a2cc3c4b50
+[30-Mar-2021 16:15:30 America/New_York] loading controller from db
+[30-Mar-2021 16:15:36 America/New_York] setting controller status to 1000
+[30-Mar-2021 16:15:36 America/New_York] saving controller to db
+[30-Mar-2021 16:15:36 America/New_York] instantiating backup controller 61f647854a61f38185494126101367c4
+[30-Mar-2021 16:15:36 America/New_York] setting controller status to 100
+[30-Mar-2021 16:15:36 America/New_York] loading controller plan
+[30-Mar-2021 16:15:36 America/New_York] setting controller status to 300
+[30-Mar-2021 16:15:36 America/New_York] applying plan defaults
+[30-Mar-2021 16:15:36 America/New_York] setting controller status to 400
+[30-Mar-2021 16:15:36 America/New_York] setting file inclusion to 
+[30-Mar-2021 16:15:36 America/New_York] checking plan security
+[30-Mar-2021 16:15:36 America/New_York] setting controller status to 700
+[30-Mar-2021 16:15:36 America/New_York] saving controller to db
+[30-Mar-2021 16:15:36 America/New_York] calculating controller checksum 338571397eeb60871b2aeb8fff307c6d
+[30-Mar-2021 16:15:36 America/New_York] loading controller from db
+[30-Mar-2021 16:15:36 America/New_York] setting file inclusion to 1
+[30-Mar-2021 16:15:36 America/New_York] setting controller status to 800
+[30-Mar-2021 16:15:36 America/New_York] saving controller to db
+[30-Mar-2021 16:15:36 America/New_York] calculating controller checksum 45ea74fc216134d7748b609eb95c6944
+[30-Mar-2021 16:15:36 America/New_York] loading controller from db
+[30-Mar-2021 16:15:38 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/obhuctmy/public_html/online-courses/lib/filestorage/tgz_packer.php on line 482
+[30-Mar-2021 17:15:02 America/New_York] instantiating backup controller 0fd71bdb12be407b8c4d82eaeec784d5
+[30-Mar-2021 17:15:02 America/New_York] setting controller status to 100
+[30-Mar-2021 17:15:02 America/New_York] loading controller plan
+[30-Mar-2021 17:15:02 America/New_York] setting controller status to 300
+[30-Mar-2021 17:15:02 America/New_York] applying plan defaults
+[30-Mar-2021 17:15:02 America/New_York] setting controller status to 400
+[30-Mar-2021 17:15:02 America/New_York] setting file inclusion to 
+[30-Mar-2021 17:15:02 America/New_York] checking plan security
+[30-Mar-2021 17:15:02 America/New_York] setting controller status to 700
+[30-Mar-2021 17:15:02 America/New_York] saving controller to db
+[30-Mar-2021 17:15:02 America/New_York] calculating controller checksum 6a7f64e419f487ed6f4e8d0b468ca1f7
+[30-Mar-2021 17:15:02 America/New_York] loading controller from db
+[30-Mar-2021 17:15:02 America/New_York] setting file inclusion to 1
+[30-Mar-2021 17:15:02 America/New_York] setting controller status to 800
+[30-Mar-2021 17:15:02 America/New_York] saving controller to db
+[30-Mar-2021 17:15:02 America/New_York] calculating controller checksum e864364c69587d6da5ad0bdfa5d8e7f9
+[30-Mar-2021 17:15:02 America/New_York] loading controller from db
+[30-Mar-2021 17:15:08 America/New_York] setting controller status to 1000
+[30-Mar-2021 17:15:08 America/New_York] saving controller to db
+[30-Mar-2021 17:15:08 America/New_York] instantiating backup controller cc51a265bfe4afcf6170bbe56267456c
+[30-Mar-2021 17:15:08 America/New_York] setting controller status to 100
+[30-Mar-2021 17:15:08 America/New_York] loading controller plan
+[30-Mar-2021 17:15:08 America/New_York] setting controller status to 300
+[30-Mar-2021 17:15:08 America/New_York] applying plan defaults
+[30-Mar-2021 17:15:08 America/New_York] setting controller status to 400
+[30-Mar-2021 17:15:08 America/New_York] setting file inclusion to 
+[30-Mar-2021 17:15:08 America/New_York] checking plan security
+[30-Mar-2021 17:15:08 America/New_York] setting controller status to 700
+[30-Mar-2021 17:15:08 America/New_York] saving controller to db
+[30-Mar-2021 17:15:08 America/New_York] calculating controller checksum 2fad9cc1587b4c22e7156e0da954db6b
+[30-Mar-2021 17:15:08 America/New_York] loading controller from db
+[30-Mar-2021 17:15:08 America/New_York] setting file inclusion to 1
+[30-Mar-2021 17:15:08 America/New_York] setting controller status to 800
+[30-Mar-2021 17:15:08 America/New_York] saving controller to db
+[30-Mar-2021 17:15:08 America/New_York] calculating controller checksum 3d3a572b0da8250d2c6a45b9b63e294b
+[30-Mar-2021 17:15:08 America/New_York] loading controller from db
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/dc/83/dc83e4a1bb5b10bbc30a4b8f1edbe534f3510ad7): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/d5/ff/d5ff573d93630478f1a1d30e1329895fed4baccc): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/ce/08/ce08a8ace5a4d15bca99a353560d6d85308ea45f): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/11/a3/11a3d0ac8ff519b7900ef5d9644cb72819123861): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/a4/3f/a43fe5004254795a46f1af8785a695c950f407dc): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/5a/1a/5a1a3feeedfbf6711b010b3644e71694a06e7136): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/7d/cf/7dcf3f1f231028d8aa1e0a149f27b3f3d844c40b): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/73/12/7312c8eafe5b740d670d6ef361fb46c8cf493c9b): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/da/22/da220dfca8a33487d878e17dcd412c3c77f1368a): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/2d/24/2d24d563d918b9e75770b81ff08627db044a0101): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:09 America/New_York] PHP Warning:  copy(/home/obhuctmy/public_html/moodledata/filedir/eb/20/eb20e424f644b5d3e9f2dd0172cbfe4e823e379c): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system_filedir.php on line 234
+[30-Mar-2021 17:15:10 America/New_York] setting controller status to 1000
+[30-Mar-2021 17:15:10 America/New_York] saving controller to db
+[30-Mar-2021 17:15:10 America/New_York] instantiating backup controller 1bcacb36d6ed209b2da09ee4979c532d
+[30-Mar-2021 17:15:10 America/New_York] setting controller status to 100
+[30-Mar-2021 17:15:10 America/New_York] loading controller plan
+[30-Mar-2021 17:15:10 America/New_York] setting controller status to 300
+[30-Mar-2021 17:15:10 America/New_York] applying plan defaults
+[30-Mar-2021 17:15:10 America/New_York] setting controller status to 400
+[30-Mar-2021 17:15:10 America/New_York] setting file inclusion to 
+[30-Mar-2021 17:15:10 America/New_York] checking plan security
+[30-Mar-2021 17:15:10 America/New_York] setting controller status to 700
+[30-Mar-2021 17:15:10 America/New_York] saving controller to db
+[30-Mar-2021 17:15:10 America/New_York] calculating controller checksum 9d2ea79c5514290f7729bf0240140cda
+[30-Mar-2021 17:15:10 America/New_York] loading controller from db
+[30-Mar-2021 17:15:10 America/New_York] setting file inclusion to 1
+[30-Mar-2021 17:15:10 America/New_York] setting controller status to 800
+[30-Mar-2021 17:15:10 America/New_York] saving controller to db
+[30-Mar-2021 17:15:10 America/New_York] calculating controller checksum d2b437745c95363fe91e04ce8405f984
+[30-Mar-2021 17:15:10 America/New_York] loading controller from db
+[30-Mar-2021 17:15:13 America/New_York] setting controller status to 1000
+[30-Mar-2021 17:15:13 America/New_York] saving controller to db
+[30-Mar-2021 17:15:13 America/New_York] instantiating backup controller 07950ee0154abb839d0610cdd80600cc
+[30-Mar-2021 17:15:13 America/New_York] setting controller status to 100
+[30-Mar-2021 17:15:13 America/New_York] loading controller plan
+[30-Mar-2021 17:15:13 America/New_York] setting controller status to 300
+[30-Mar-2021 17:15:13 America/New_York] applying plan defaults
+[30-Mar-2021 17:15:13 America/New_York] setting controller status to 400
+[30-Mar-2021 17:15:13 America/New_York] setting file inclusion to 
+[30-Mar-2021 17:15:13 America/New_York] checking plan security
+[30-Mar-2021 17:15:13 America/New_York] setting controller status to 700
+[30-Mar-2021 17:15:13 America/New_York] saving controller to db
+[30-Mar-2021 17:15:13 America/New_York] calculating controller checksum 0a880d89c56e5bac35235369229ecb37
+[30-Mar-2021 17:15:13 America/New_York] loading controller from db
+[30-Mar-2021 17:15:13 America/New_York] setting file inclusion to 1
+[30-Mar-2021 17:15:13 America/New_York] setting controller status to 800
+[30-Mar-2021 17:15:13 America/New_York] saving controller to db
+[30-Mar-2021 17:15:13 America/New_York] calculating controller checksum d402ffed9832362ad730b912a5fd98bc
+[30-Mar-2021 17:15:13 America/New_York] loading controller from db
+[30-Mar-2021 17:15:16 America/New_York] setting controller status to 1000
+[30-Mar-2021 17:15:16 America/New_York] saving controller to db
+[30-Mar-2021 17:15:17 America/New_York] instantiating backup controller 5eaa315c04d708d85788fdb953ebf2e2
+[30-Mar-2021 17:15:17 America/New_York] setting controller status to 100
+[30-Mar-2021 17:15:17 America/New_York] loading controller plan
+[30-Mar-2021 17:15:17 America/New_York] setting controller status to 300
+[30-Mar-2021 17:15:17 America/New_York] applying plan defaults
+[30-Mar-2021 17:15:17 America/New_York] setting controller status to 400
+[30-Mar-2021 17:15:17 America/New_York] setting file inclusion to 
+[30-Mar-2021 17:15:17 America/New_York] checking plan security
+[30-Mar-2021 17:15:17 America/New_York] setting controller status to 700
+[30-Mar-2021 17:15:17 America/New_York] saving controller to db
+[30-Mar-2021 17:15:17 America/New_York] calculating controller checksum c4a3553325a3bcb30ccf17c66ac382e2
+[30-Mar-2021 17:15:17 America/New_York] loading controller from db
+[30-Mar-2021 17:15:17 America/New_York] setting file inclusion to 1
+[30-Mar-2021 17:15:17 America/New_York] setting controller status to 800
+[30-Mar-2021 17:15:17 America/New_York] saving controller to db
+[30-Mar-2021 17:15:17 America/New_York] calculating controller checksum ad7483180c2fbc42e3ad04eaba231528
+[30-Mar-2021 17:15:17 America/New_York] loading controller from db
+[30-Mar-2021 17:15:33 America/New_York] setting controller status to 1000
+[30-Mar-2021 17:15:33 America/New_York] saving controller to db
+[30-Mar-2021 17:15:34 America/New_York] instantiating backup controller fce16a03c0f543b834881e24cd8f84b7
+[30-Mar-2021 17:15:34 America/New_York] setting controller status to 100
+[30-Mar-2021 17:15:34 America/New_York] loading controller plan
+[30-Mar-2021 17:15:34 America/New_York] setting controller status to 300
+[30-Mar-2021 17:15:34 America/New_York] applying plan defaults
+[30-Mar-2021 17:15:34 America/New_York] setting controller status to 400
+[30-Mar-2021 17:15:34 America/New_York] setting file inclusion to 
+[30-Mar-2021 17:15:34 America/New_York] checking plan security
+[30-Mar-2021 17:15:34 America/New_York] setting controller status to 700
+[30-Mar-2021 17:15:34 America/New_York] saving controller to db
+[30-Mar-2021 17:15:34 America/New_York] calculating controller checksum 42d24bb73d5afe734e9fbad94b1fda1b
+[30-Mar-2021 17:15:34 America/New_York] loading controller from db
+[30-Mar-2021 17:15:34 America/New_York] setting file inclusion to 1
+[30-Mar-2021 17:15:34 America/New_York] setting controller status to 800
+[30-Mar-2021 17:15:34 America/New_York] saving controller to db
+[30-Mar-2021 17:15:34 America/New_York] calculating controller checksum 14cc6f8a2e6c9be37fa58d8e0237b7c4
+[30-Mar-2021 17:15:34 America/New_York] loading controller from db
+[30-Mar-2021 17:15:38 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/obhuctmy/public_html/online-courses/lib/filestorage/tgz_packer.php on line 482
+[30-Mar-2021 18:15:02 America/New_York] instantiating backup controller 8994e853a78b42459e1fe3ec17e43b0f
+[30-Mar-2021 18:15:02 America/New_York] setting controller status to 100
+[30-Mar-2021 18:15:02 America/New_York] loading controller plan
+[30-Mar-2021 18:15:02 America/New_York] setting controller status to 300
+[30-Mar-2021 18:15:02 America/New_York] applying plan defaults
+[30-Mar-2021 18:15:02 America/New_York] setting controller status to 400
+[30-Mar-2021 18:15:02 America/New_York] setting file inclusion to 
+[30-Mar-2021 18:15:02 America/New_York] checking plan security
+[30-Mar-2021 18:15:02 America/New_York] setting controller status to 700
+[30-Mar-2021 18:15:02 America/New_York] saving controller to db
+[30-Mar-2021 18:15:02 America/New_York] calculating controller checksum 9d76d7f93bb7fecf0437de24495440d5
+[30-Mar-2021 18:15:02 America/New_York] loading controller from db
+[30-Mar-2021 18:15:02 America/New_York] setting file inclusion to 1
+[30-Mar-2021 18:15:02 America/New_York] setting controller status to 800
+[30-Mar-2021 18:15:02 America/New_York] saving controller to db
+[30-Mar-2021 18:15:02 America/New_York] calculating controller checksum a860dcc45b18d92921d8cb856d0ac9fe
+[30-Mar-2021 18:15:02 America/New_York] loading controller from db
+[30-Mar-2021 18:15:10 America/New_York] setting controller status to 1000
+[30-Mar-2021 18:15:10 America/New_York] saving controller to db
+[30-Mar-2021 18:15:11 America/New_York] instantiating backup controller ca01768bd3c8563ffb15f64277c83c9d
+[30-Mar-2021 18:15:11 America/New_York] setting controller status to 100
+[30-Mar-2021 18:15:11 America/New_York] loading controller plan
+[30-Mar-2021 18:15:11 America/New_York] setting controller status to 300
+[30-Mar-2021 18:15:11 America/New_York] applying plan defaults
+[30-Mar-2021 18:15:11 America/New_York] setting controller status to 400
+[30-Mar-2021 18:15:11 America/New_York] setting file inclusion to 
+[30-Mar-2021 18:15:11 America/New_York] checking plan security
+[30-Mar-2021 18:15:11 America/New_York] setting controller status to 700
+[30-Mar-2021 18:15:11 America/New_York] saving controller to db
+[30-Mar-2021 18:15:11 America/New_York] calculating controller checksum 19f788b13f8bc832868b9fe7acb4d174
+[30-Mar-2021 18:15:11 America/New_York] loading controller from db
+[30-Mar-2021 18:15:11 America/New_York] setting file inclusion to 1
+[30-Mar-2021 18:15:11 America/New_York] setting controller status to 800
+[30-Mar-2021 18:15:11 America/New_York] saving controller to db
+[30-Mar-2021 18:15:11 America/New_York] calculating controller checksum d08a4bc5b48e7935d2c3adc1bb3eb292
+[30-Mar-2021 18:15:11 America/New_York] loading controller from db
+[30-Mar-2021 18:15:15 America/New_York] setting controller status to 1000
+[30-Mar-2021 18:15:15 America/New_York] saving controller to db
+[30-Mar-2021 18:15:15 America/New_York] instantiating backup controller a5154c1d23a8ae0bd710035667ca29ca
+[30-Mar-2021 18:15:15 America/New_York] setting controller status to 100
+[30-Mar-2021 18:15:15 America/New_York] loading controller plan
+[30-Mar-2021 18:15:15 America/New_York] setting controller status to 300
+[30-Mar-2021 18:15:15 America/New_York] applying plan defaults
+[30-Mar-2021 18:15:15 America/New_York] setting controller status to 400
+[30-Mar-2021 18:15:15 America/New_York] setting file inclusion to 
+[30-Mar-2021 18:15:15 America/New_York] checking plan security
+[30-Mar-2021 18:15:15 America/New_York] setting controller status to 700
+[30-Mar-2021 18:15:15 America/New_York] saving controller to db
+[30-Mar-2021 18:15:15 America/New_York] calculating controller checksum b96974e9244c7b967f879d0a45b01f32
+[30-Mar-2021 18:15:15 America/New_York] loading controller from db
+[30-Mar-2021 18:15:15 America/New_York] setting file inclusion to 1
+[30-Mar-2021 18:15:15 America/New_York] setting controller status to 800
+[30-Mar-2021 18:15:15 America/New_York] saving controller to db
+[30-Mar-2021 18:15:15 America/New_York] calculating controller checksum 38961fe9f3fb721240046048e1ef1032
+[30-Mar-2021 18:15:15 America/New_York] loading controller from db
+[30-Mar-2021 18:15:37 America/New_York] setting controller status to 1000
+[30-Mar-2021 18:15:37 America/New_York] saving controller to db
+[30-Mar-2021 18:15:38 America/New_York] instantiating backup controller 3b2f3c256afdea68da44215c7d50cf20
+[30-Mar-2021 18:15:38 America/New_York] setting controller status to 100
+[30-Mar-2021 18:15:38 America/New_York] loading controller plan
+[30-Mar-2021 18:15:38 America/New_York] setting controller status to 300
+[30-Mar-2021 18:15:38 America/New_York] applying plan defaults
+[30-Mar-2021 18:15:38 America/New_York] setting controller status to 400
+[30-Mar-2021 18:15:38 America/New_York] setting file inclusion to 
+[30-Mar-2021 18:15:38 America/New_York] checking plan security
+[30-Mar-2021 18:15:38 America/New_York] setting controller status to 700
+[30-Mar-2021 18:15:38 America/New_York] saving controller to db
+[30-Mar-2021 18:15:38 America/New_York] calculating controller checksum 26b6f2d645299ff0fa7cb714f1684b25
+[30-Mar-2021 18:15:38 America/New_York] loading controller from db
+[30-Mar-2021 18:15:38 America/New_York] setting file inclusion to 1
+[30-Mar-2021 18:15:38 America/New_York] setting controller status to 800
+[30-Mar-2021 18:15:38 America/New_York] saving controller to db
+[30-Mar-2021 18:15:38 America/New_York] calculating controller checksum 18ffc54ec77de41844b33ce527fbc978
+[30-Mar-2021 18:15:38 America/New_York] loading controller from db
+[30-Mar-2021 18:15:39 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/obhuctmy/public_html/online-courses/lib/filestorage/tgz_packer.php on line 482
+[30-Mar-2021 19:15:03 America/New_York] instantiating backup controller f9eb949bc8342104d7324fdbe769a1ad
+[30-Mar-2021 19:15:03 America/New_York] setting controller status to 100
+[30-Mar-2021 19:15:03 America/New_York] loading controller plan
+[30-Mar-2021 19:15:03 America/New_York] setting controller status to 300
+[30-Mar-2021 19:15:03 America/New_York] applying plan defaults
+[30-Mar-2021 19:15:03 America/New_York] setting controller status to 400
+[30-Mar-2021 19:15:03 America/New_York] setting file inclusion to 
+[30-Mar-2021 19:15:03 America/New_York] checking plan security
+[30-Mar-2021 19:15:03 America/New_York] setting controller status to 700
+[30-Mar-2021 19:15:03 America/New_York] saving controller to db
+[30-Mar-2021 19:15:03 America/New_York] calculating controller checksum ecf00af300835fc5429cb6d4ea196efc
+[30-Mar-2021 19:15:03 America/New_York] loading controller from db
+[30-Mar-2021 19:15:03 America/New_York] setting file inclusion to 1
+[30-Mar-2021 19:15:03 America/New_York] setting controller status to 800
+[30-Mar-2021 19:15:03 America/New_York] saving controller to db
+[30-Mar-2021 19:15:03 America/New_York] calculating controller checksum eb7bc98a357f201f2e327d9e9cee8bc0
+[30-Mar-2021 19:15:03 America/New_York] loading controller from db
+[30-Mar-2021 19:15:09 America/New_York] setting controller status to 1000
+[30-Mar-2021 19:15:09 America/New_York] saving controller to db
+[30-Mar-2021 19:15:09 America/New_York] instantiating backup controller 6ddcbd0f8d48a36096586242c86b7413
+[30-Mar-2021 19:15:09 America/New_York] setting controller status to 100
+[30-Mar-2021 19:15:09 America/New_York] loading controller plan
+[30-Mar-2021 19:15:09 America/New_York] setting controller status to 300
+[30-Mar-2021 19:15:09 America/New_York] applying plan defaults
+[30-Mar-2021 19:15:09 America/New_York] setting controller status to 400
+[30-Mar-2021 19:15:09 America/New_York] setting file inclusion to 
+[30-Mar-2021 19:15:09 America/New_York] checking plan security
+[30-Mar-2021 19:15:09 America/New_York] setting controller status to 700
+[30-Mar-2021 19:15:09 America/New_York] saving controller to db
+[30-Mar-2021 19:15:09 America/New_York] calculating controller checksum 8fa27b6b2d7fc498563f66b214dae647
+[30-Mar-2021 19:15:09 America/New_York] loading controller from db
+[30-Mar-2021 19:15:09 America/New_York] setting file inclusion to 1
+[30-Mar-2021 19:15:09 America/New_York] setting controller status to 800
+[30-Mar-2021 19:15:09 America/New_York] saving controller to db
+[30-Mar-2021 19:15:09 America/New_York] calculating controller checksum 0806fefc2b6e70abbfd98e213c685a18
+[30-Mar-2021 19:15:09 America/New_York] loading controller from db
+[30-Mar-2021 19:15:13 America/New_York] setting controller status to 1000
+[30-Mar-2021 19:15:13 America/New_York] saving controller to db

@@ -1,0 +1,5 @@
+[04-Jun-2021 03:16:15 UTC] PHP Fatal error:  Uncaught Error: Class 'plugin_renderer_base' not found in /home/obhuctmy/public_html/online-courses/admin/tool/mobile/classes/output/renderer.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/obhuctmy/public_html/online-courses/admin/tool/mobile/classes/output/renderer.php on line 38
+[04-Jun-2021 03:16:15 UTC] PHP Fatal error:  Interface 'renderable' not found in /home/obhuctmy/public_html/online-courses/admin/tool/mobile/classes/output/subscription.php on line 36

@@ -1,0 +1,6 @@
+[30-Mar-2021 16:56:38 America/New_York] Default exception handler: Your session has most likely timed out. Please log in again. Debug: 
+Error code: invalidsesskey
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 73 of /lib/editor/atto/autosave-ajax.php: call to require_sesskey()
+

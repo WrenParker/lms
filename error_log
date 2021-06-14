@@ -1,0 +1,471 @@
+[30-Mar-2021 12:34:35 UTC] Resetting core_component cache after core upgrade to version 2020061505.01
+[30-Mar-2021 13:29:39 UTC] Resetting core_component cache after core upgrade to version 2020061506
+[30-Mar-2021 14:30:32 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/a4/a0/a4a0ad9e9f35815e68dec6a37d018fbdb3b95d09): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 14:30:32 America/New_York] Default exception handler: Cannot read file 'index_scorm.html'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 1012 of /mod/scorm/lib.php: call to send_stored_file()
+* line 4987 of /lib/filelib.php: call to scorm_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 15:12:58 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:12:58 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 4703 of /lib/filelib.php: call to send_stored_file()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 15:13:08 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:08 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:13:09 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:09 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:13:10 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:10 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:13:13 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:13 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:13:14 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:14 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:13:17 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:17 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:13:20 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:20 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:13:21 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/46/90/4690d6d92fccc7d23e0b1f0ebba1e890e732e822): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:13:21 America/New_York] Default exception handler: Cannot read file 'HEADER_BIG_CleancitiesNAFTC.jpg'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 88 of /draftfile.php: call to send_stored_file()
+
+[30-Mar-2021 15:15:48 America/New_York] PHP Warning:  readfile(/home/obhuctmy/public_html/moodledata/filedir/45/44/45440e1be44807fcdbeeef6e045ec230090bdbd6): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filelib.php on line 2104
+[30-Mar-2021 15:15:48 America/New_York] Default exception handler: Cannot read file 'index_scorm.html'. Either the file does not exist or there is a permission problem. Debug: 
+Error code: storedfilecannotreadfile
+* line 67 of /lib/filestorage/file_system.php: file_exception thrown
+* line 444 of /lib/filestorage/stored_file.php: call to file_system->readfile()
+* line 2260 of /lib/filelib.php: call to stored_file->readfile()
+* line 2528 of /lib/filelib.php: call to readfile_accel()
+* line 2673 of /lib/filelib.php: call to send_file()
+* line 1012 of /mod/scorm/lib.php: call to send_stored_file()
+* line 4987 of /lib/filelib.php: call to scorm_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:03:25 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:03:25 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:03:29 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:03:29 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:04:15 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:04:15 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:04:45 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:04:45 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:04:51 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:04:51 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:05:42 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:05:42 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:06:08 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:06:08 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:06:15 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:06:15 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:06:17 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:06:17 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:09:15 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:09:15 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:09:22 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:09:22 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 16:56:57 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 16:56:57 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:07:58 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:07:58 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:08:01 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:08:01 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:08:37 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:08:37 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:09:59 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:09:59 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:15:29 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:15:29 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:15:34 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:15:34 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:33:07 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:33:07 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:37:58 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:37:58 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:38:04 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:38:04 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:38:14 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:38:14 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:39:13 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:39:13 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:39:17 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:39:17 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:42:13 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:42:13 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:46:58 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:46:58 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 17:49:59 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 17:49:59 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 18:06:12 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 18:06:12 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[30-Mar-2021 18:06:15 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[30-Mar-2021 18:06:15 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 13:25:35 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 13:25:35 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 13:26:00 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 13:26:00 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:10:42 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:10:42 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:10:45 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:10:45 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:11:44 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:11:44 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:24:39 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:24:39 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:27:17 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:27:17 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:32:49 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:32:49 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:41:24 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:41:24 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[31-Mar-2021 15:41:24 America/New_York] PHP Warning:  file_get_contents(/home/obhuctmy/public_html/moodledata/filedir/bf/cd/bfcd901534c323021a20dd1a637b766dbcf911ec): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/filestorage/file_system.php on line 285
+[31-Mar-2021 15:41:24 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 2075 of /lib/filelib.php: call to print_error()
+* line 110 of /admin/lib.php: call to send_file_not_found()
+* line 5049 of /lib/filelib.php: call to core_admin_pluginfile()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[02-May-2021 08:00:12 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/obhuctmy/public_html/wp-content/wflogs/config-livewaf.php
+[19-May-2021 13:17:38 UTC] PHP Warning:  require_once(/home/obhuctmy/public_html/online-courses/lib/classes/component.php): failed to open stream: No such file or directory in /home/obhuctmy/public_html/online-courses/lib/setup.php on line 404
+[19-May-2021 13:17:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/obhuctmy/public_html/online-courses/lib/classes/component.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/obhuctmy/public_html/online-courses/lib/setup.php on line 404

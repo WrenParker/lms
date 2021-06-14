@@ -1,0 +1,4 @@
+[03-Jun-2021 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'advanced_testcase' not found in /home/obhuctmy/public_html/online-courses/admin/tool/dataprivacy/tests/filtered_userlist_test.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/obhuctmy/public_html/online-courses/admin/tool/dataprivacy/tests/filtered_userlist_test.php on line 32

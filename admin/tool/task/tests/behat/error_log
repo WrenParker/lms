@@ -1,0 +1,6 @@
+[04-Jun-2021 03:34:22 UTC] PHP Warning:  Class 'Facebook\WebDriver\WebDriverKeys' not found in /home/obhuctmy/public_html/online-courses/lib/behat/classes/behat_session_trait.php on line 43
+[04-Jun-2021 03:34:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Behat\MinkExtension\Context\RawMinkContext' not found in /home/obhuctmy/public_html/online-courses/lib/behat/behat_base.php:52
+Stack trace:
+#0 /home/obhuctmy/public_html/online-courses/admin/tool/task/tests/behat/behat_tool_task.php(27): require_once()
+#1 {main}
+  thrown in /home/obhuctmy/public_html/online-courses/lib/behat/behat_base.php on line 52
