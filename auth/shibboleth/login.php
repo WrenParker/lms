@@ -114,7 +114,7 @@
             'logintoken' => \core\session\manager::get_login_token(),
             'loginurl' => new moodle_url('/auth/shibboleth/login.php'),
             'showinstructions' => $showinstructions,
-            'signupurl' => new moodle_url('/login/signup.php'),
+            'signupurl' => "https://naftc.wvu.edu/learning-center/",
             'isvalid' => $isvalid
         ];
 
