@@ -148,7 +148,7 @@ class login implements renderable, templatable {
             context_system::instance()->id);
         $data->loginurl = $this->loginurl->out(false);
         $data->rememberusername = $this->rememberusername;
-        $data->signupurl = $this->signupurl->out(false);
+        $data->signupurl = $this->signupurl;
         $data->username = $this->username;
         $data->logintoken = $this->logintoken;
         $data->maintenance = format_text($this->maintenance, FORMAT_MOODLE);
